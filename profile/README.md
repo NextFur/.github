@@ -14,6 +14,6 @@
 * ⛏️ | [FurSMP](https://fursmp.com) | O Maior servidor de minecraft da comunidade Furry. Feito para unir e entreter a todos com uma jogatina única e uma história intrigante.
 * 🦌 | [FurLibre](https://furlibre.com) | Um projeto colaborativo de entretimento digital, para produção de jogos e mídia social.
 * 📱 | [FurYou](https://furyou.social) | A Nova Rede Social da Furry Fandom. Sem anúncios, sem brigas, sem AI. Com foco na produção artística geral e no entretenimento digital para a comunidade.
-* ⚙️ | [NextFUR API](https://nextfur.net/docs) | A Nossa API própria para manejamento de usuários e desenvolvimento de aplicações Web.
+* ⚙️ | [NextFUR API](https://docs.nextfur.net/) | A Nossa API própria para manejamento de usuários e desenvolvimento de aplicações Web.
 
 ## Nos acompanhe em nosso [WebSite](https://nextfur.net) e nossas redes sociais!
